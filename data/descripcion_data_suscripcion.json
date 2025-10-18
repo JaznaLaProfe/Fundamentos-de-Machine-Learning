@@ -1,0 +1,51 @@
+[
+	{
+		"nombre" : "ClienteID",
+		"descripcion": "Identificador único del cliente"		
+	},
+	{
+		"nombre": "Edad",
+		"descripcion": "Edad del cliente expresada en años"
+	},
+	{
+		"nombre": "Genero",
+		"descripcion": "Géneto declarado (Femenino, Masculino, Otro)"
+	},
+	{
+		"nombre": "Pais",
+		"descripcion": "País de residencia"
+	},
+	{
+		"nombre": "Suscripcion_Meses",
+		"descripcion": "Tiempo con suscripción activa"
+	},
+	{
+		"nombre": "Plan",
+		"descripcion": "Tipo de plan contratado (Básico, Estándar o Premium)"
+	},			
+	{
+		"nombre": "Horas_Semanales_Uso",
+		"descripcion": "Promedio de horas de uso semanal"
+	},
+	{
+		"nombre": "Satisfacción",
+		"descripcion": "Nivel de satisfacción declarado"
+	},
+	{
+		"nombre": "Soporte_Contactos",
+		"descripcion":"Número de contactos al soporte en el último año"
+	},	
+	{
+		"nombre": "Promocion_Usada",
+		"descripcion": "Si utilizó o no una promoción de descuento al suscribirse"
+	},	
+	{
+		"nombre": "GastoMensual",
+		"descripcion": "Monto mensual pagado (expresado en pesos)"
+  },	
+	{
+		"nombre": "Renuncia",
+		"descripcion": "Si el cliente abandona el servicio o no"
+	}
+
+]
